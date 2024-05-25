@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="webratio.classpath">
+  <path id="webratio.classpath">
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.antlr_2.7.7" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.commons.beanutils_1.8.3" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.commons.codec_1.10.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.commons.collections_3.2.2" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.commons.httpclient_3.1.0.2" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.commons.io_2.4.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.commons.lang_2.6.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.commons.net_3.4.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.httpcomponents_4.5.1" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.oro_2.0.8" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.poi_3.13.0.wr" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.xalan_2.7.2" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.xmlbeans_2.6.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.c3p0_0.9.5.2" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.dom4j_1.6.1" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.ehcache_2.10.1" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.google.guava_23.0.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.groovy_3.0.4" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.h2_1.4.190" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.hibernate_5.4.2.wr" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.itext_2.1.7" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.jackson2_2.9.9" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.jakarta.activation.api_1.2.1" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.jakarta.xml.bind.api_2.3.2" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.javassist_3.24.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.javax.mail_1.5.5" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.javax.persistence_2.2.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.javax.transaction_1.1.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.javax.wsdl4j_1.6.3" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.jaxb.runtime_2.3.2" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.jaxen_1.1.6" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.jboss.logging_3.3.2.Final" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.jcaptcha_1.0.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.jodatime_2.9.1" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.mimepull_1.9.6" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.quartz_2.1.7" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.aop_5.1.9" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.beans_5.1.9" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.context_5.1.9" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.context.support_5.1.9" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.core_5.1.9" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.expression_5.1.9" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.web_5.1.9" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.webmvc_5.1.9" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.security.config_5.1.6" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.security.core_5.1.6" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.security.jwt_1.0.9" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.security.oauth2_2.3.3" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.spring.security.web_5.1.6" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.base_2.0.0.202312041235" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.dom4j_2.0.0.202312041235" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.incubator_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.libs_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.transform_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.lib.apache.commons.fileupload_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.lib.apache.derby_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.lib.hibernate_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.lib.jcl-over-slf4j_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.lib.log4j2_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.lib.log4j2-slf4j-impl_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.lib.slf4j_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.xsd_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.json_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.ws_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.debug_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.model_9.0.24.202402271936" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.commons.logging_1.2.0" includes="*.jar,lib/*.jar"/>
+    <fileset dir="C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.commons.lib.apache.log4j_1.2.17" includes="*.jar,lib/*.jar"/>
+  </path>
+</project>

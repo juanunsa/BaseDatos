@@ -1,0 +1,5 @@
+MODIFIED C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\webapps\BaseDatos\WEB-INF\classes\ApplicationResources_en_US.properties previous=1716659352990|11706 current=1716661208151|11706
+MODIFIED C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\webapps\BaseDatos\WEB-INF\classes\application_vdb.prepare.sql previous=1716659352084|0 current=1716661207057|0
+MODIFIED C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\webapps\BaseDatos\WEB-INF\classes\session_vdb.prepare.sql previous=1716659352084|0 current=1716661207057|0
+----
+Reload required -> touch C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\webapps\BaseDatos\WEB-INF\web.xml

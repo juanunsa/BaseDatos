@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration>
+  <Properties>
+    <Property name="ajaxActivated">true</Property>
+    <Property name="applicationServer">Tomcat</Property>
+    <Property name="cloudDeploy">false</Property>
+    <Property name="dbConfigPath">C:\Users\BRISA\AppData\Local\Temp\WRDBConfig17490058004004887661.xml</Property>
+    <Property name="defaultEncoding"></Property>
+    <Property name="deployCorePluginDir">C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\configuration\org.eclipse.osgi\184\0\.cp</Property>
+    <Property name="derbySystemHome">C:\WebRatio\WebRatio Platform Community 9.0.24\workspace\.metadata\.plugins\com.webratio.commons.db\derby</Property>
+    <Property name="enterpriseProjectDir"></Property>
+    <Property name="eventSocketPort">58289</Property>
+    <Property name="excludedProjects" type="list"></Property>
+    <Property name="generationTime">202405251519</Property>
+    <Property name="hostAlwaysAllowed">false</Property>
+    <Property name="httpPort">8080</Property>
+    <Property name="httpsPort">8080</Property>
+    <Property name="i18nBundleKeysFile" type="file"></Property>
+    <Property name="i18nExtraBundleFile" type="file"></Property>
+    <Property name="lockDir">C:\WebRatio\WebRatio Platform Community 9.0.24\workspace\BaseDatos\.Temp~</Property>
+    <Property name="normalizeDescriptors">false</Property>
+    <Property name="outputPath">C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\webapps\BaseDatos</Property>
+    <Property name="phases">All</Property>
+    <Property name="productionMode">false</Property>
+    <Property name="projectDir">C:\WebRatio\WebRatio Platform Community 9.0.24\workspace\BaseDatos</Property>
+    <Property name="projectName">BaseDatos</Property>
+    <Property name="projectPath">C:\Users\BRISA\AppData\Local\Temp\Project5820571001312324121.wr</Property>
+    <Property name="projectType">DATASERVICE</Property>
+    <Property name="rootModuleName"></Property>
+    <Property name="skipEngineHibernateConfiguration">false</Property>
+    <Property name="uiPluginDir">C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.ide.ui_9.0.24.202402271936</Property>
+    <Property name="webappPluginDir">C:\WebRatio\WebRatio Platform Community 9.0.24\WebRatio\plugins\com.webratio.generator.webapp_9.0.24.202402271936</Property>
+    <Property name="wrBuildId">202402271936</Property>
+    <Property name="wrModelStatistics">components=0|pages=0</Property>
+    <Property name="wrVersion">9.0.24</Property>
+    <Property name="authenticationServerBaseUrl">http://localhost:8080/BaseDatos</Property>
+    <Property name="appId">BaseDatos</Property>
+    <Property name="appSecret">BaseDatos</Property>
+  </Properties>
+  <Plugins>
+    <Plugin id="com.webratio.auth.commons" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.auth.commons_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.auth.resserver" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.auth.resserver_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.auth.server" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.auth.server_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.commons.base" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.base_2.0.0.202312041235" common="true"/>
+    <Plugin id="com.webratio.commons.dom4j" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.dom4j_2.0.0.202312041235" common="true"/>
+    <Plugin id="com.webratio.commons.incubator" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.incubator_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.commons.lib.antlr" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.antlr_2.7.7" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.commons.beanutils" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.commons.beanutils_1.8.3" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.commons.codec" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.commons.codec_1.10.0" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.commons.collections" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.commons.collections_3.2.2" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.commons.httpclient" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.commons.httpclient_3.1.0.2" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.commons.io" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.commons.io_2.4.0" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.commons.lang" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.commons.lang_2.6.0" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.commons.net" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.commons.net_3.4.0" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.httpcomponents" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.httpcomponents_4.5.1" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.oro" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.oro_2.0.8" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.poi" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.poi_3.13.0.wr" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.xalan" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.xalan_2.7.2" common="true"/>
+    <Plugin id="com.webratio.commons.lib.apache.xmlbeans" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.apache.xmlbeans_2.6.0" common="true"/>
+    <Plugin id="com.webratio.commons.lib.c3p0" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.c3p0_0.9.5.2" common="true"/>
+    <Plugin id="com.webratio.commons.lib.dom4j" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.dom4j_1.6.1" common="true"/>
+    <Plugin id="com.webratio.commons.lib.ehcache" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.ehcache_2.10.1" common="true"/>
+    <Plugin id="com.webratio.commons.lib.google.guava" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.google.guava_23.0.0" common="true"/>
+    <Plugin id="com.webratio.commons.lib.groovy" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.groovy_3.0.4" common="true"/>
+    <Plugin id="com.webratio.commons.lib.h2" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.h2_1.4.190" common="true"/>
+    <Plugin id="com.webratio.commons.lib.hibernate" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.hibernate_5.4.2.wr" common="true"/>
+    <Plugin id="com.webratio.commons.lib.itext" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.itext_2.1.7" common="true"/>
+    <Plugin id="com.webratio.commons.lib.jackson2" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.jackson2_2.9.9" common="true"/>
+    <Plugin id="com.webratio.commons.lib.jakarta.activation.api" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.jakarta.activation.api_1.2.1" common="true"/>
+    <Plugin id="com.webratio.commons.lib.jakarta.xml.bind.api" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.jakarta.xml.bind.api_2.3.2" common="true"/>
+    <Plugin id="com.webratio.commons.lib.javassist" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.javassist_3.24.0" common="true"/>
+    <Plugin id="com.webratio.commons.lib.javax.mail" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.javax.mail_1.5.5" common="true"/>
+    <Plugin id="com.webratio.commons.lib.javax.persistence" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.javax.persistence_2.2.0" common="true"/>
+    <Plugin id="com.webratio.commons.lib.javax.servlet.jsp.jstl" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.javax.servlet.jsp.jstl_1.2.1" common="true"/>
+    <Plugin id="com.webratio.commons.lib.javax.servlet.jsp" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.javax.servlet.jsp_2.2.1" common="true"/>
+    <Plugin id="com.webratio.commons.lib.javax.servlet" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.javax.servlet_3.0.1" common="true"/>
+    <Plugin id="com.webratio.commons.lib.javax.transaction" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.javax.transaction_1.1.0" common="true"/>
+    <Plugin id="com.webratio.commons.lib.javax.wsdl4j" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.javax.wsdl4j_1.6.3" common="true"/>
+    <Plugin id="com.webratio.commons.lib.jaxb.runtime" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.jaxb.runtime_2.3.2" common="true"/>
+    <Plugin id="com.webratio.commons.lib.jaxen" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.jaxen_1.1.6" common="true"/>
+    <Plugin id="com.webratio.commons.lib.jboss.logging" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.jboss.logging_3.3.2.Final" common="true"/>
+    <Plugin id="com.webratio.commons.lib.jcaptcha" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.jcaptcha_1.0.0" common="true"/>
+    <Plugin id="com.webratio.commons.lib.jodatime" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.jodatime_2.9.1" common="true"/>
+    <Plugin id="com.webratio.commons.lib.mimepull" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.mimepull_1.9.6" common="true"/>
+    <Plugin id="com.webratio.commons.lib.quartz" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.quartz_2.1.7" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.aop" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.aop_5.1.9" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.beans" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.beans_5.1.9" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.context.support" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.context.support_5.1.9" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.context" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.context_5.1.9" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.core" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.core_5.1.9" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.expression" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.expression_5.1.9" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.security.config" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.security.config_5.1.6" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.security.core" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.security.core_5.1.6" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.security.jwt" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.security.jwt_1.0.9" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.security.oauth2" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.security.oauth2_2.3.3" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.security.web" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.security.web_5.1.6" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.web" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.web_5.1.9" common="true"/>
+    <Plugin id="com.webratio.commons.lib.spring.webmvc" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.lib.spring.webmvc_5.1.9" common="true"/>
+    <Plugin id="com.webratio.commons.libs" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.libs_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.commons.transform" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.commons.transform_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.components.web.content" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.components.web.content_9.0.24.202402271936" type="components" common="true"/>
+    <Plugin id="com.webratio.components.web.controlflow" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.components.web.controlflow_9.0.24.202402271936" type="components" common="true"/>
+    <Plugin id="com.webratio.components.web.operation" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.components.web.operation_9.0.24.202402271936" type="components" common="true"/>
+    <Plugin id="com.webratio.components.web.session" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.components.web.session_9.0.24.202402271936" type="components" common="true"/>
+    <Plugin id="com.webratio.components.web.utility" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.components.web.utility_9.0.24.202402271936" type="components" common="true"/>
+    <Plugin id="com.webratio.components.web.validation" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.components.web.validation_9.0.24.202402271936" type="components" common="true"/>
+    <Plugin id="com.webratio.components.web.ws" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.components.web.ws_9.0.24.202402271936" type="components" common="true"/>
+    <Plugin id="com.webratio.data" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.data_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.debug" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.debug_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.json" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.json_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.lib.apache.commons.fileupload" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.lib.apache.commons.fileupload_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.lib.apache.derby" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.lib.apache.derby_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.lib.hibernate" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.lib.hibernate_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.lib.jcl-over-slf4j" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.lib.jcl-over-slf4j_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.lib.log4j2-slf4j-impl" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.lib.log4j2-slf4j-impl_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.lib.log4j2" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.lib.log4j2_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.lib.slf4j" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.lib.slf4j_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.lib.spring" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.lib.spring_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.log.log4j2" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.log.log4j2_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.log" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.log_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.model" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.model_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.rtx" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.rtx_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.web.mvc" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.web.mvc_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.webapp.server" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.webapp.server_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.ws" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.ws_9.0.24.202402271936" common="true"/>
+    <Plugin id="com.webratio.xsd" path="C:/WebRatio/WebRatio Platform Community 9.0.24/WebRatio/plugins/com.webratio.xsd_9.0.24.202402271936" common="true"/>
+  </Plugins>
+  <Styles/>
+  <FileEncodings/>
+</Configuration>

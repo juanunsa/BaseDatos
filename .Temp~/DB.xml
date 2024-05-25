@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DBMetaData transactionLevel="Read Committed" productName="PostgreSQL" identifierQuoteString="&quot;" productVersion="11.16" driverVersion="42.7.3" driverMajorVersion="42" driverMinorVersion="7" driverName="PostgreSQL JDBC Driver">
+  <Schema name="information_schema"/>
+  <Schema name="pg_catalog"/>
+  <Schema name="public"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="application" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="approval" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="authorized_grant_type" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="authorized_resource" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="claim" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="claim_identity" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="code" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="convocatoria" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="device" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="identity" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="redirect_uri" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="refresh_token" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="scope" ignoreIndexes="false"/>
+  <Table schema="public" refreshed="false" type="TABLE" name="user" ignoreIndexes="false"/>
+</DBMetaData>
